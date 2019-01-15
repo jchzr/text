@@ -2,9 +2,9 @@ package com.itheima.jd.pojo;
 public class ProductModel {
 	privat String name；
 	// 商品编号
-	private String pid;
+	private String pids;
 	// 商品名称
-	private String name;
+	private String names;
 	// 商品分类名称
 	private String catalog_name;
 	// 价格
