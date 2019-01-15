@@ -1,5 +1,6 @@
 package com.itheima.jd.pojo;
 public class ProductModel {
+	privat String name；
 	// 商品编号
 	private String pid;
 	// 商品名称
