@@ -1,5 +1,6 @@
 package com.itheima.jd.pojo;
 public class ProductModel {
+	int a=10；
 	// 商品编号
 	private String pid;
 	// 商品名称
@@ -7,7 +8,7 @@ public class ProductModel {
 	// 商品分类名称
 	private String catalog_name;
 	// 价格
-	private float price;
+	private float prices;
 	// 商品描述
 	private String description;
 	// 图片名称
@@ -48,5 +49,5 @@ public class ProductModel {
 	public void setPicture(String picture) {
 		this.picture = picture;
 	}
-	
+	int b=11；
 }
