@@ -48,5 +48,5 @@ public class ProductModel {
 	public void setPicture(String picture) {
 		this.picture = picture;
 	}
-	
+	int=10；
 }
